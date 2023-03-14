@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="enter_name">Nhập tên</string>
+    <string name="enter_email">Nhập Email</string>
+    <string name="type_message">Nhập tin nhắn</string>
+    <string name="label_sign_up">Đăng kí</string>
+    <string name="btn_sign_up">Đăng kí</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_save">Lưu</string>
+    <string name ="btn_send_message">Gửi tin nhắn</string>
+    <string name="label_sign_in">Đăng nhập</string>
+    <string name="label_message">Tin nhắn</string>
+    <string name="label_profile">Cá nhân</string>
+    <string name="enter_password">Nhập mật khẩu</string>
+    <string name="enter_confirm_password">Xác nhận mật khẩu</string>
+</resources>
